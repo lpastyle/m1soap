@@ -14,6 +14,11 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+      <groupId>javax.jws</groupId>
+      <artifactId>jsr181-api</artifactId>
+      <version>1.0-MR1</version>
+    </dependency>
   </dependencies>
   <build>
     <finalName>m1soap</finalName>
